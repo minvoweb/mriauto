@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minvoweb.github.io/mriauto/sitemap.xml
